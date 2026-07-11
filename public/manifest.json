@@ -1,1 +1,41 @@
-
+{
+  "name": "অর্থপাঠ — Orthopath",
+  "short_name": "অর্থপাঠ",
+  "description": "ফিন্যান্স, ব্যাংকিং ও বিমা — সহজভাবে শেখো। একাদশ ও দ্বাদশ শ্রেণীর শিক্ষার্থীদের জন্য নোট, চর্চা ও মূল্যায়ন।",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF7EE",
+  "theme_color": "#0F4C3A",
+  "lang": "bn",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education"]
+}
